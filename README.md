@@ -64,6 +64,5 @@ pip install beautifulsoup4 pandas
 
 ---
 **Author:** Sol Vloebergh  
-**Course:** DSA 8640 – Programming for Data Science  
 **Date:** December 2025
 
